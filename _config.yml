@@ -3,54 +3,72 @@ remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 # Set plugins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jemoji
-- jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-default-layout
+  - jekyll-feed
+  - jemoji
+  - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+url: "https://jeldo.github.com"
+baseurl: ""
+title: "Taeyoung Kwak"
+description: ""
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+# logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
+## Gem settings
+author: TaeyoungKwak
+social: # jekyll-seo-tag > social overrides
+  name: Taeyoung kwak # jekyll-seo-tag > real name
+  links: # jekyll-seo-tag > social aliases (sameAs)
+    - https://www.linkedin.com/in/taeyoung-kwak-561a5b161/
+    - https://github.com/jeldo
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
 
+## Jekyll settings
+timezone: Asia/Seoul
+
 # Header nav
 navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+  - title: About
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Blog
+    url: /blog/
+  - title: Categories
+    url: /categories/
+  - title: Search
+    url: /search/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+  - title: Back to top
+    url: "#top"
 
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Posts Title goes here
     output: true
-    description: "My thoughts and ideas"
+    description: "My thoughts and ideas desc"
     feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      Welcome to my blog ggg
+    feature_image: "https://picsum.photos/2560/600?image=865"
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  LinkedIn: https://www.linkedin.com/in/taeyoung-kwak-561a5b161/
+  GitHub: https://github.com/jeldo
