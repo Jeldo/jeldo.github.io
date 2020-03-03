@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ---
 
-Projects will be posted soon. Please visit my github instead.
+Projects will be posted soon. Please visit my [github](http://github.com/jeldo) instead.
