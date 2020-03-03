@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ---
 
-Projects go here
+Projects will be posted soon. Please visit my github instead.
