@@ -13,6 +13,16 @@ Since there are various factors such as the location, purpose and preference of 
 
 MeetAtMid is an easily accessible service that does not require to install a mobile app and supports social networking system through web-based service. MeetAtMid provides users with various information to make decision quick and easy.
 
+##### System Architecture
+
+![archi](./../archi.png){: .center}
+
+##### Tech Stack
+
+Frontend: ReactJS, HTML/CSS  
+Backend: NodeJS  
+Database: MongoDB
+
 ##### User Flow
 
 ![flow](./../flow.jpg){: .center}
@@ -22,16 +32,6 @@ MeetAtMid is an easily accessible service that does not require to install a mob
 3\. Send the location of each participant  
 4\. Share recommended places  
 5\. Vote for the place
-
-##### Tech Stack
-
-Frontend: ReactJS, HTML/CSS  
-Backend: NodeJS  
-Database: MongoDB
-
-##### System Architecture
-
-![archi](./../archi.png){: .center}
 
 ##### Survey
 
