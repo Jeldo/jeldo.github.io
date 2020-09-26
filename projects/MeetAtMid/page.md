@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 # title: Projects
 ---
 
@@ -9,9 +9,9 @@ layout: page
 
 ##### Background & Goal
 
-Since there are various factors such as the location, purpose and preference of members, it is hard to find a meeting palce for a large group. We aim to solve this problem by identifying the location and characteristic of group members and providing optimal places.
+Since there are various factors such as the location, purpose and preference of members, it is hard to find a meeting place for a large group. We aim to solve this problem by identifying the location and characteristic of group members and providing optimal places.
 
-MeetAtMid is an easily accessible service that does not require to install a mobile app and supports social networking system through web-based service. MeetAtMid provides users with various information to make decision quick and easy.
+MeetAtMid is an easily accessible service that does not require the installation of a mobile app and supports social networking system through web-based service. MeetAtMid provides users with various information to make decision quick and easy.
 
 ##### System Architecture
 

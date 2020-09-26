@@ -20,10 +20,10 @@ plugins:
   - jekyll-remote-theme
 
 # Site settings
-url: "https://jeldo.github.com"
-baseurl: ""
-title: "Taeyoung Kwak"
-description: ""
+url: 'https://jeldo.github.com'
+baseurl: ''
+title: 'Taeyoung Kwak'
+description: ''
 permalink: pretty
 # logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
@@ -57,7 +57,7 @@ navigation_header:
 # Footer nav
 navigation_footer:
   - title: Back to top
-    url: "#top"
+    url: '#top'
 
 # Collections
 collections:
@@ -69,5 +69,5 @@ collections:
     # feature_image: "https://picsum.photos/2560/600?image=865"
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  LinkedIn: https://www.linkedin.com/in/taeyoung-kwak-561a5b161/
+  LinkedIn: https://www.linkedin.com/in/taeyoung-kwak/
   GitHub: https://github.com/jeldo
