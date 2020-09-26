@@ -11,4 +11,5 @@ Previously, I received B.S in Computer Science at [Kookmin University](https://w
 
 I'm a undergraduate student in Computer Science at [Kookmin University](https://www.kookmin.ac.kr/home.php).
 
-[CV](/files/cv.pdf) / [Resume](/files/resume.pdf) / [Github](https://github.com/jeldo) / [LinkedIn](https://www.linkedin.com/in/taeyoung-kwak-561a5b161/)
+[Resume(EN)](/files/resume.pdf) / [Resume(KR)](/files/resume_kr.pdf)  
+[Github](https://github.com/jeldo) / [LinkedIn](https://www.linkedin.com/in/taeyoung-kwak/)
